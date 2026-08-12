@@ -25,7 +25,7 @@ Verified release APK:
 - Package name: `com.flypimusic.music`
 - Verified with APK Signature Scheme v1, v2, v3, and v4 (kept for compatibility with older/OEM installers, e.g. Android Go, MIUI).
 
-## What's new (v1.5)
+## What's new (v2.0)
 
 - **Fixed a crash on the "Cached" library shortcut** — tapping it threw
   `IllegalArgumentException: Navigation destination that matches route
